@@ -23,3 +23,5 @@ Pandas groupby to sum or count values
 Created reduced DFs for specific visuals
 Created calculated percentage columns within relevant DataFrames
 Defined functions for efficient code
+
+RESOURCES LOCATED UNDER RESOURCES BRANCH. (DATA AND IMAGES)
